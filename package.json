@@ -2,7 +2,7 @@
   "name": "async-landing",
   "version": "1.0.0",
   "description": "Curso de platzi",
-  "main": "index.html",
+  "main": "index.js",
   "scripts": {
     "deploy": "gh-pages -d src"
   },
